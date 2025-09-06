@@ -1,3 +1,5 @@
+> Stable as of Sept 2025 — see tag v2025.09-full-working-cdn.
+
 # Willsen CDN
 
 This repository serves as a CDN for willsen.dk website assets using GitHub Pages and jsDelivr.
